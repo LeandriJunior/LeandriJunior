@@ -1,10 +1,6 @@
-Olá, sou o Leandri Junior, sou desenvolvedor <strong>Back-end</strong> por profissão, mas nas horas vagas eu brinco com o <strong>Front-end</strong> também hahaha
-<br/>
-<br/>
-<br/>
-<br/>
+<h2>Olá, sou o Leandri Junior, sou desenvolvedor <strong>Back-end</strong> por profissão</h2>
+<br/><br/><br/><br/>
 
 <div>
   <img align="center" height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
-
 </div>
