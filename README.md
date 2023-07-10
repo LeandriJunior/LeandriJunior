@@ -32,7 +32,7 @@
   
 </div>****
 <div class="stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
-  <img align="center" height="180em" src="https://wakatime.com/share/@LeandriJunior/6d8eb83d-332f-4bc8-8e39-e080b278e085.png">
+  <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
+  <img align="center" height="300em" src="https://wakatime.com/share/@LeandriJunior/6d8eb83d-332f-4bc8-8e39-e080b278e085.png">
 </div>
 
