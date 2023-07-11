@@ -1,9 +1,7 @@
 <h2>Olá, sou o Leandri Junior! desenvolvedor <strong>FullStack</strong>. Porem, eu tenho minha queda pelo <Strong>Backend</Strong> <span>&#128540;</span></h2>
 <table>
 <tr>
-  <td>
-    <img align="center" height="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
-  </td>
+
   <td style="display: inline_block">
     <h4>Algumas das tecnologias que eu utilizo!</h4><br>
     <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
