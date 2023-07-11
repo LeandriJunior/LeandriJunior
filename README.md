@@ -2,7 +2,7 @@
 <table>
 <tr>
   <td>
-    <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
+    <img align="center" height="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeandriJunior&langs_count=8&layout=compact&card_width=100%&theme=dark">
   </td>
   <td style="display: inline_block">
     <h4>Algumas das tecnologias que eu utilizo!</h4><br>
